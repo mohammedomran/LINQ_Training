@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9e580cc0-e543-4474-ac8f-818847eaadd1": {
+      "ProjectGuid": "9e580cc0-e543-4474-ac8f-818847eaadd1",
+      "DisplayName": "Linq",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "965527d8-d10d-4aee-8b1e-cea4ba48a1d6": {
+      "ProjectGuid": "965527d8-d10d-4aee-8b1e-cea4ba48a1d6",
+      "DisplayName": "Linq2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,15 @@
+D:\learning\Linq\Linq\bin\Debug\net6.0\Linq.exe
+D:\learning\Linq\Linq\bin\Debug\net6.0\Linq.deps.json
+D:\learning\Linq\Linq\bin\Debug\net6.0\Linq.runtimeconfig.json
+D:\learning\Linq\Linq\bin\Debug\net6.0\Linq.dll
+D:\learning\Linq\Linq\bin\Debug\net6.0\ref\Linq.dll
+D:\learning\Linq\Linq\bin\Debug\net6.0\Linq.pdb
+D:\learning\Linq\Linq\obj\Debug\net6.0\Linq.csproj.AssemblyReference.cache
+D:\learning\Linq\Linq\obj\Debug\net6.0\Linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\learning\Linq\Linq\obj\Debug\net6.0\Linq.AssemblyInfoInputs.cache
+D:\learning\Linq\Linq\obj\Debug\net6.0\Linq.AssemblyInfo.cs
+D:\learning\Linq\Linq\obj\Debug\net6.0\Linq.csproj.CoreCompileInputs.cache
+D:\learning\Linq\Linq\obj\Debug\net6.0\Linq.dll
+D:\learning\Linq\Linq\obj\Debug\net6.0\ref\Linq.dll
+D:\learning\Linq\Linq\obj\Debug\net6.0\Linq.pdb
+D:\learning\Linq\Linq\obj\Debug\net6.0\Linq.genruntimeconfig.cache
