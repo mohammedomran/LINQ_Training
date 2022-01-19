@@ -15,7 +15,12 @@
       "ProjectGuid": "965527d8-d10d-4aee-8b1e-cea4ba48a1d6",
       "DisplayName": "Linq2",
       "ColorIndex": 1
+    },
+    "8e14a61d-a22c-4f4a-a1e8-8bf65d01ab21": {
+      "ProjectGuid": "8e14a61d-a22c-4f4a-a1e8-8bf65d01ab21",
+      "DisplayName": "Linq3",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }

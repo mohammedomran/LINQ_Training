@@ -33,5 +33,7 @@ namespace Linq2.Models
                 Combined = int.Parse(fields[7])
             };
         }
+
+        
     }
 }
